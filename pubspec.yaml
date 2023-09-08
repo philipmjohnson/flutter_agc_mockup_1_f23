@@ -1,4 +1,4 @@
-name: flutter_agc_mockup_1_f23
+name: flutter_agc_mockup
 description: A new Flutter project.
 
 # Prevent accidental publishing to pub.dev.
@@ -7,13 +7,17 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.3 <4.0.0'
+  sdk: '>=2.18.4 <3.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
+  flutter_native_splash: ^2.2.14
+  badges: ^2.0.3
+  json_theme: ^4.0.0
+  flutter_markdown: ^0.6.13
 
 dev_dependencies:
   flutter_test:
@@ -28,5 +32,4 @@ flutter:
   generate: true
 
   assets:
-    # Add assets from the images directory to the application.
     - assets/images/
