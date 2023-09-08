@@ -1,6 +1,6 @@
 # AGC Mockup (Phase 1)
 
-Here are screen shots that illustrate current application state. We use the flutter_markdown package to provide information on what should appear in a page when we haven't gotten around to actually mocking up the contents.
+Here are screen shots that illustrate this mockup. We use the flutter_markdown package to provide information on what should appear in a page when we haven't gotten around to actually mocking up the contents.
 
 Click on any screen shot to see it full-size.
 
@@ -12,4 +12,5 @@ Click on any screen shot to see it full-size.
   <img src="./README-screenshots/screen-3.png" width="25%">
 
   <img src="./README-screenshots/screen-4.png" width="25%">
+  <img src="./README-screenshots/screen-5.png" width="25%">
 </p>
