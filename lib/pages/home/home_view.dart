@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
 import '../../components/drawer_view.dart';
+import '../../pages/home/bodies/news_body_view.dart';
 import '../settings/settings_view.dart';
 import 'bodies/gardens_body_view.dart';
-import 'bodies/news_body_view.dart';
 
 /// Top-level Layout for all of the "Home" related
 class HomeView extends StatefulWidget {

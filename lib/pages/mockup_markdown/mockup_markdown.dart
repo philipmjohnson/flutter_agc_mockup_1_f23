@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_agc_mockup/src/components/drawer_view.dart';
+import 'package:flutter_agc_mockup/components/drawer_view.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 
 class MockupMarkdownView extends StatelessWidget {

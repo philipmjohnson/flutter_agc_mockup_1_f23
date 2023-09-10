@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../../sample_feature/sample_item.dart';
-import 'news_body_item_actions.dart';
+import '../../../../pages/home/bodies/news_body_item_actions.dart';
+import '../../../../pages/sample_feature/sample_item.dart';
 
 /// Displays a list of Gardens.
 class NewsBodyView extends StatelessWidget {
