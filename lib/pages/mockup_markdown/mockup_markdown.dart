@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_agc_mockup/components/drawer_view.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
+
+import '../../components/drawer_view.dart';
 
 class MockupMarkdownView extends StatelessWidget {
   const MockupMarkdownView({Key? key, this.title = "Title", this.data = "Data"})
